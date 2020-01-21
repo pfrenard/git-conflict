@@ -11,6 +11,7 @@ def feature_b():
     """
     feature B
     """
-    pass
+    print("J\'adore les fleurs")
 
 print("Ma liste", feature_a() )
+
