@@ -12,3 +12,5 @@ def feature_b():
     feature B
     """
     pass
+
+print(feature_a())
